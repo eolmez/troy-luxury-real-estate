@@ -10,7 +10,7 @@ const Navbar = ({ toggle }) => {
   return (
     <Nav>
       <Logo to="/">
-        <IconContext.Provider value={{size: 28}}>
+        <IconContext.Provider value={{size: 26}}>
           <NavIcon />
         </IconContext.Provider>
         TROY
